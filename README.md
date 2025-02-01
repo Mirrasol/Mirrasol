@@ -13,7 +13,7 @@ I have been studying backend development on Python since 2023, and have successf
 
 * ✉️  You can contact me by [email](mailto:elena.dobruk@yandex.ru) or [Telegram](https://t.me/HDobruk)
 
-* 💬  My CV on [Hexlet](https://cv.hexlet.io/ru/resumes/3809) or in [PDF](https://drive.google.com/file/d/17N22QVo1gmjVN_h04lzx7SoxxhBj5WJ1/view?usp=sharing)
+* 💬  My CV in [PDF](https://drive.google.com/file/d/17N22QVo1gmjVN_h04lzx7SoxxhBj5WJ1/view?usp=sharing)
 
 
 ### Skills
