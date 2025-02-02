@@ -4,7 +4,7 @@ Hi 👋 My name is Elena
 Python Backend developer
 ------------------------
 
-I have been studying backend development on Python since 2023, and have successfully completed the professional course "Python Developer" on the platform Hexlet. I'm currently looking for a job in web development and I'm open for any collaborations!
+I have been studying backend development with Python since 2023, and have successfully completed the professional course "Python Developer" on the platform Hexlet. I'm currently looking for a job in web development and I'm open for any collaborations!
 
 
 * 🌍  I'm based in Doldopudny, Moscow Oblast
