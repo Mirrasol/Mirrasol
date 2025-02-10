@@ -9,7 +9,7 @@ I have been studying backend development with Python since 2023, and have succes
 
 * 🌍  I'm based in Doldopudny, Moscow Oblast
 
-* 🧠  I'm learning FastAPI and Django Frameworks
+* 🧠  I'm learning Django, FastAPI, asynchronous Python and Docker
 
 * ✉️  You can contact me by [email](mailto:elena.dobruk@yandex.ru) or [Telegram](https://t.me/HDobruk)
 
