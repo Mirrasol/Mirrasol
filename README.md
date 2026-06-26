@@ -5,13 +5,15 @@ Frontend developer
 ------------------------
 
 I have been studying backend with Python since 2023 (successfully completed the professional course "Python Developer" on the platform Hexlet) and in the meanwhile got interested in the frontend development and interface design. 
+
 In 2025 I have enrolled in the "Frontend Developer" course on Hexlet, which I'm currently progressing.
+
 I'm open for any collaborations!
 
 
 * 🌍  I'm based in Dolgoprudny, Moscow Oblast
 
-* 🧠  I'm learning JS ans TypeScript, React and Docker
+* 🧠  I'm learning JS and TypeScript, React and Docker
 
 * ✉️  You can contact me by [email](mailto:elena.dobruk@yandex.ru) or [Telegram](https://t.me/HDobruk)
 
