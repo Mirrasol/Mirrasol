@@ -6,7 +6,7 @@ Frontend developer
 
 I have been studying backend with Python since 2023 (successfully completed the professional course "Python Developer" on the platform Hexlet) and in the meanwhile got interested in the frontend development and interface design. 
 
-In 2025 I have enrolled in the "Frontend Developer" course on Hexlet, which I'm currently progressing.
+In 2025 I have enrolled in the "Frontend Developer" course on Hexlet, which I'm currently progressing through.
 
 I'm open for any collaborations!
 
